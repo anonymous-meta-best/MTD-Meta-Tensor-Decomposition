@@ -1,10 +1,5 @@
 """
 Meta-Learning for Fast and Accurate Domain Adaptation for Irregular Tensors
-Authors:
-- Junghun Kim (bandalg97@snu.ac.kr), Seoul National University
-- Ka Hyun Park (kahyun.park@snu.ac.kr), Seoul National University
-- Jun-Gi Jang (elnino4@snu.ac.kr), Seoul National University
-- U Kang (ukang@snu.ac.kr), Seoul National University
 This software may be used only for research evaluation purposes.
 For other purposes (e.g., commercial), please contact the authors.
 """
